@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 1 Human systems: Aspects and levels of organization and development'
-type: OCWFile
 uid: ac6487ef-6ec8-5d12-c751-364be3e2a009
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 1 Working groups
-type: OCWFile
 uid: 21d4776e-7db6-4ef1-db91-e9178b687e10
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 1 Timesheet
-type: OCWFile
 uid: 35567f44-96ea-a8a1-60bb-ad7f3a2dd1f6
 ---

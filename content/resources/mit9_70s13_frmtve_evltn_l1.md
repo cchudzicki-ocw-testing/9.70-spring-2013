@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 1 Draft formative and summative evaluation form
-type: OCWFile
 uid: a0544668-8f95-8029-f8f8-c8ab2af5f166
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 1 Study group roster
-type: OCWFile
 uid: 0560d8de-0870-e61c-6624-348450f19dfc
 ---

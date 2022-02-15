@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 1 Preliminary information form and benchmark questionnaire
-type: OCWFile
 uid: 54ac1bd2-9500-a890-168d-094463d98d41
 ---
