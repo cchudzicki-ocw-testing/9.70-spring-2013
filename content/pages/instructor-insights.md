@@ -45,8 +45,8 @@ Professor Chorover described various aspects of how he taught _9.70 Social Psych
 
 The following sections principally depict Prof. Chorover’s approach to teaching the course:
 
-*   [Collaborative Learning System]({{< baseurl >}}/pages/syllabus/#Collaborative_Learning_System)
-*   [Social Psychology]({{< baseurl >}}/pages/syllabus/#Social_Psychology_in_Theory_and_Practice)
+*   {{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Collaborative Learning System" "#Collaborative_Learning_System" >}}
+*   {{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Social Psychology" "#Social_Psychology_in_Theory_and_Practice" >}}
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
