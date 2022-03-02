@@ -84,7 +84,7 @@ READINGS & VIEWINGS
 
 Preliminary Information Form and Benchmark Questionnaire
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Syllabus" >}}–Why such a gigantic Document?
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Syllabus" %}}–Why such a gigantic Document?
 
 Working Groups
 
@@ -116,7 +116,7 @@ The Science of Social Psychology and Vice-versa I
 {{< tdopen >}}
 
 
-1.2-1 {{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Syllabus" >}}
+1.2-1 {{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Syllabus" %}}
 
 1.2-2 \[SA\] Front Matter, Back Matter, and Chapter 1.
 
@@ -182,7 +182,7 @@ Persons-In-Contexts I
 {{< tdopen >}}
 
 
-2.1-1 {{< resource_link b08393a2-c76e-ac07-389a-ee863c70fcf5 "Human systems: A selection of development schemes (PDF)" >}}
+2.1-1 {{% resource_link b08393a2-c76e-ac07-389a-ee863c70fcf5 "Human systems: A selection of development schemes (PDF)" %}}
 
 2.1-2 Jackson, Don D. "[The Individual and the Larger Contexts](http://dx.doi.org/10.1111/j.1545-5300.1967.00139.x)." _Family Process_ 6, no. 2 (1967): 139–47.
 

@@ -14,31 +14,31 @@ Lectures: 1 session / week; 3 hours / session
 Index
 -----
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Course Description" "#Course_Description" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Course Description" "#Course_Description" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Collaborative Learning System" "#Collaborative_Learning_System" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Collaborative Learning System" "#Collaborative_Learning_System" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Social Psychology in Theory and Practice" "#Social_Psychology_in_Theory_and_Practice" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Social Psychology in Theory and Practice" "#Social_Psychology_in_Theory_and_Practice" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Paradigms" "#Paradigms" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Paradigms" "#Paradigms" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Social Psychology in Action" "#Social_Psychology_in_Action" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Social Psychology in Action" "#Social_Psychology_in_Action" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Modern and Systematic Paradigms: Two Mostly Complementary, not Always Contradictory, Perspectives" "#Modern_and_Systemic_Paradigms" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Modern and Systematic Paradigms: Two Mostly Complementary, not Always Contradictory, Perspectives" "#Modern_and_Systemic_Paradigms" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Human Inquiry (Science)" "#Human_Inquiry__Science_" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Human Inquiry (Science)" "#Human_Inquiry__Science_" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Meaning and Power (Mens et Manus?)" "#Meaning_and_Power__Mens_et_Manus__" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Meaning and Power (Mens et Manus?)" "#Meaning_and_Power__Mens_et_Manus__" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "\"Everything that is said is said by Someone\"" "#Everything_that_is_said_is_said_by_Someone" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "\"Everything that is said is said by Someone\"" "#Everything_that_is_said_is_said_by_Someone" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Facilitation" "#Facilitation" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Facilitation" "#Facilitation" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Grading" "#Grading" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Grading" "#Grading" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Final Grades" "#Final_Grades" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Final Grades" "#Final_Grades" %}}
 
-{{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Keeping a Journal" "#Keeping_a_Journal" >}}
+{{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Keeping a Journal" "#Keeping_a_Journal" %}}
 
 ### {{< anchor "Course_Description" >}}{{< /anchor >}}Course Description
 

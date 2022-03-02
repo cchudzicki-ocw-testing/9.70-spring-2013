@@ -41,12 +41,12 @@ Professor Chorover is an emeritus professor and is no longer teaching this cours
 Instructor Insights
 -------------------
 
-Professor Chorover described various aspects of how he taught _9.70 Social Psychology_ extensively in the {{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "course syllabus" >}}.
+Professor Chorover described various aspects of how he taught _9.70 Social Psychology_ extensively in the {{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "course syllabus" %}}.
 
 The following sections principally depict Prof. Chorover’s approach to teaching the course:
 
-*   {{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Collaborative Learning System" "#Collaborative_Learning_System" >}}
-*   {{< resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Social Psychology" "#Social_Psychology_in_Theory_and_Practice" >}}
+*   {{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Collaborative Learning System" "#Collaborative_Learning_System" %}}
+*   {{% resource_link a03c67b0-fa88-dad4-f7f3-e4e7b80de300 "Social Psychology" "#Social_Psychology_in_Theory_and_Practice" %}}
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
@@ -87,5 +87,5 @@ Study group meetings
 Out of class
 ------------
 
-*   Students were required to complete {{< resource_link 064dd259-60ad-2e1d-c546-461b43b5289e "reading and viewing assignments" >}}.
+*   Students were required to complete {{% resource_link 064dd259-60ad-2e1d-c546-461b43b5289e "reading and viewing assignments" %}}.
 *   Students also compiled and submitted weekly meeting minutes or prepared facilitation handouts before class.
