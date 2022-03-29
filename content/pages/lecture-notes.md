@@ -45,13 +45,13 @@ Welcome
 
 {{% resource_link 21d4776e-7db6-4ef1-db91-e9178b687e10 "Working groups (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ac6487ef-6ec8-5d12-c751-364be3e2a009 "Human systems: Aspects and levels of organization and development (PDF)" %}}
+{{% resource_link ac6487ef-6ec8-5d12-c751-364be3e2a009 "Human systems: Aspects and levels of organization and development (PDF)" %}}
 
 {{% resource_link 35567f44-96ea-a8a1-60bb-ad7f3a2dd1f6 "Timesheet (PDF)" %}}
 
 {{% resource_link 0560d8de-0870-e61c-6624-348450f19dfc "Study group roster (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a0544668-8f95-8029-f8f8-c8ab2af5f166 "Draft formative and summative evaluation form (PDF)" %}}
+{{% resource_link a0544668-8f95-8029-f8f8-c8ab2af5f166 "Draft formative and summative evaluation form (PDF)" %}}
 
 
 {{< tdclose >}}
