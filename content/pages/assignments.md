@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on working with study groups for the
+  course, study group meetings, and submitting weekly study group minutes.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

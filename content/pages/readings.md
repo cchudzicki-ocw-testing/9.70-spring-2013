@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the required textbook for the course,
+  notes on readings and viewings, and the schedule of lecture topics, readings, and
+  viewings by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
