@@ -5,6 +5,7 @@ file: /courses/9-70-social-psychology-spring-2013/b08393a2c76eac07389aee863c70fc
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
